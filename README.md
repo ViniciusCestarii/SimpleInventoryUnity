@@ -1,4 +1,4 @@
-# SimpleInventoyUnity
+# SimpleInventoryUnity
 
 Hi, this a simple inventory system i am currently using in my game called "A Bit Of Adventure".
 
